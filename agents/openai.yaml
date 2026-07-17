@@ -1,0 +1,4 @@
+interface:
+  display_name: "临床试验方法学顾问"
+  short_description: "以ICH、NMPA与方法学证据支持临床研发决策和质量审查"
+  default_prompt: "使用 $clinical-trial-methodology-advisor 将我的临床试验问题结构化，必要时检索官方依据，并给出可执行、可追溯的专业建议。"
