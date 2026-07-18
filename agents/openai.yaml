@@ -1,4 +1,4 @@
 interface:
   display_name: "你的临床试验顾问"
-  short_description: "以官方证据和方法学支持临床研发决策与质量审查"
-  default_prompt: "使用 $clinical-trial-methodology-advisor 分析我的临床试验问题，必要时检索官方依据，并给出可执行、可追溯的专业建议。"
+  short_description: "支持临床设计、统计、安全、GCP、监管检索与文件QC"
+  default_prompt: "使用 $clinical-trial-methodology-advisor 分析这个临床试验问题，先明确适用边界和证据，再给出可执行、可追溯的判断与下一步。"
