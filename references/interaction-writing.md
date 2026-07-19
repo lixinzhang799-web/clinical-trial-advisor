@@ -57,13 +57,13 @@
 
 | 问题类型 | 优先澄清 | 后续路由 |
 |---|---|---|
-| 试验怎么设计 | 支持什么临床或申报决策 | `design-statistics.md` |
-| 样本量/ITT/缺失 | 临床问题、终点、估计目标和伴发事件 | `design-statistics.md` |
-| 偏差是否严重 | 对安全、终点、盲态、数据或义务的影响 | `gcp-safety-operations.md` |
-| AE/SAE/SUSAR | 事件、严重性、因果、预期性、时间和法域 | `gcp-safety-operations.md` + `regulatory-guidance.md` |
+| 试验怎么设计 | 支持什么临床或申报决策 | `regulatory-guidance.md` |
+| 样本量/ITT/缺失 | 临床问题、终点、估计目标和伴发事件 | `regulatory-guidance.md` |
+| 偏差是否严重 | 对安全、终点、盲态、数据或义务的影响 | `临床研究综合参考.md` |
+| AE/SAE/SUSAR | 事件、严重性、因果、预期性、时间和法域 | `临床研究综合参考.md` + `regulatory-guidance.md` |
 | DSUR/CSR | 报告边界、版本、数据和资料包状态 | `regulatory-guidance.md` |
 | 当前法规要求 | 法域、日期、产品、阶段和角色 | `regulatory-guidance.md` |
-| 运营或跨职能问题 | 中心、供应商、数据、供应和决策背景 | `clinical-research-questions.md` |
+| 运营或跨职能问题 | 中心、供应商、数据、供应和决策背景 | `临床研究综合参考.md` |
 
 ## 5. 用户语气写作
 
